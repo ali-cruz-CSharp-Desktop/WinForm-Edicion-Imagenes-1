@@ -1,0 +1,4 @@
+Uso de las librerias ImageProcessor .web
+
+Imagen de input la gira y le pinta una letra.
+
